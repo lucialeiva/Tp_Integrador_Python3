@@ -1,10 +1,5 @@
 from tkinter import *
 
-def iniciar_sesion():
-    ventana2 = Tk()
-    ventana2.geometry("500x200")
-    ventana2.resizable(0, False)
-    ventana2.mainloop()
 
 
 ventana1 = Tk()
